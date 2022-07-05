@@ -18,6 +18,7 @@ h1 {
     background-size: cover;
     height: 100vh;
     width: 100%;
+
 }
 
 .box1 {
@@ -33,4 +34,39 @@ h1 {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+#black-color {
+    color: black;
+}
+
+.box-2 {
+    box-shadow: 10px 10px 80px white;
+    width: 50%;
+    display: flex;
+    margin-left: 15%;
+    padding: 2%;
+
+}
+
+.box-2-items {
+    margin: 20px 10px;
+    padding: 15px 25px;
+    box-shadow: 10px 10px 40px ghostwhite;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+#red-item {
+    border: 1px solid red;
+    color: red;
+    background-color: rgb(245, 226, 226);
+}
+
+.box-3 {
+    font-weight: 200;
 }
