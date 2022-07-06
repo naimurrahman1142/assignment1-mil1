@@ -143,6 +143,31 @@ h2 {
     background-image: linear-gradient(red, tomato);
 }
 
+
+
+.bonus {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.bonus1 {
+    width: 50%;
+}
+
+.bonus img {
+    width: 100%;
+}
+
+#bns {
+    background-color: rgb(99, 143, 34);
+    padding: 18px 18px;
+}
+
+#bns2 {
+    margin: 10px 25px;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(131, 128, 128));
+}
+
 .tomato {
     color: tomato;
 }
@@ -153,5 +178,5 @@ h2 {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 2rem 2rem;
+    padding: 2rem 1rem;
 }
