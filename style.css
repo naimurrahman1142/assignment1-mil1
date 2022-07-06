@@ -142,3 +142,16 @@ h2 {
     border: none;
     background-image: linear-gradient(red, tomato);
 }
+
+.tomato {
+    color: tomato;
+}
+
+.foot {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem 2rem;
+}
